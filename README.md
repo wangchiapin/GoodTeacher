@@ -17,5 +17,5 @@
 2. 要更新 GoodTeacher 字體時，拿 game-kit 的 `bank/gt/rules.csv`（和 readings.txt、classes.txt）當依據，重新做三個字體，再把這三個檔放進 PPT／Word 兩個 zip 的 `GoodTeacher/` 資料夾。
 3. 字體做好、Release 換好之後，字體、外掛與 game-kit 的規則檔就又一樣了。
 - **第 1 步到第 3 步完成之前，兩邊會暫時不同**：遊戲與小工具已經照新規則，字體還是舊的。每次改規則都要記得做第 2、3 步。
-- 最後一次確認兩邊一樣：Release 2026-11-15（2026-11-17 已換成字體 Version 12.002 的檔案）。PPT、Word zip 裡的 rules.csv、readings.txt、classes.txt 與 game-kit `bank/gt/` 逐檔相同，三個字體也已照同一份 rules.csv 重建。
+- 最後一次確認兩邊一樣：Release 2026-11-15（2026-11-17 已換成字體 Version 12.003 的檔案）。PPT、Word zip 裡的 rules.csv、readings.txt、classes.txt 與 game-kit `bank/gt/` 逐檔相同，三個字體也已照同一份 rules.csv 重建。
 - 規則寫法：同一格放多個字＝其中任何一個都可以（例如 `戰战`）；用 `|` 隔開＝連續的字。這在字體、PPT 巨集、遊戲三邊的比對方式一樣。規則是同一組裡第一條符合的就用，「不改」會停在原本讀音。
